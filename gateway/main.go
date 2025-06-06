@@ -3,8 +3,8 @@ package main
 import (
 	"encoding/json"
 	"github.com/gofiber/fiber/v3"
-	"github.com/haserta98/go-rmq/shared"
-	"github.com/haserta98/go-rmq/shared/messaging"
+	"github.com/haserta98/go-rmq-learning/shared"
+	"github.com/haserta98/go-rmq-learning/shared/messaging"
 	"log"
 )
 

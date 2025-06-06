@@ -1,6 +1,6 @@
 package events
 
-import "github.com/haserta98/go-rmq/shared"
+import "github.com/haserta98/go-rmq-learning/shared"
 
 type OrderCreateEvent struct {
 	shared.Event

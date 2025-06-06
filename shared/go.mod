@@ -1,4 +1,4 @@
-module github.com/haserta98/go-rmq/shared
+module github.com/haserta98/go-rmq-learning/shared
 
 go 1.24.0
 

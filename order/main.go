@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/haserta98/go-rmq/order/consumers"
-	"github.com/haserta98/go-rmq/shared"
-	"github.com/haserta98/go-rmq/shared/messaging"
-	"github.com/haserta98/go-rmq/shared/repository"
+	"github.com/haserta98/go-rmq-learning/order/consumers"
+	"github.com/haserta98/go-rmq-learning/shared"
+	"github.com/haserta98/go-rmq-learning/shared/messaging"
+	"github.com/haserta98/go-rmq-learning/shared/repository"
 	"log"
 )
 

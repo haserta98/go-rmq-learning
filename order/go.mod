@@ -1,4 +1,4 @@
-module github.com/haserta98/go-rmq/order
+module github.com/haserta98/go-rmq-learning/order
 
 go 1.24.0
 
@@ -8,11 +8,11 @@ require (
 )
 
 require (
-	github.com/haserta98/go-rmq/shared v0.0.0
+	github.com/haserta98/go-rmq-learning/shared v0.0.0
 	github.com/rabbitmq/amqp091-go v1.10.0
 )
 
-replace github.com/haserta98/go-rmq/shared => ../shared
+replace github.com/haserta98/go-rmq-learning/shared => ../shared
 
 require (
 	github.com/jackc/pgpassfile v1.0.0 // indirect

@@ -2,7 +2,7 @@ package messaging
 
 import (
 	"encoding/json"
-	"github.com/haserta98/go-rmq/shared"
+	"github.com/haserta98/go-rmq-learning/shared"
 	amqp "github.com/rabbitmq/amqp091-go"
 )
 

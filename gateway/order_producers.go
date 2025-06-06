@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/haserta98/go-rmq/order/events"
-	"github.com/haserta98/go-rmq/shared"
-	"github.com/haserta98/go-rmq/shared/messaging"
+	"github.com/haserta98/go-rmq-learning/order/events"
+	"github.com/haserta98/go-rmq-learning/shared"
+	"github.com/haserta98/go-rmq-learning/shared/messaging"
 	ampq "github.com/rabbitmq/amqp091-go"
 )
 
